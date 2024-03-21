@@ -1,0 +1,5 @@
+Character Introduction: 
+Employee: Nigesh
+Nigesh is an Employee who works ABC Comapny and is a very good frnd of Ram
+Worker: Jogesh
+Jogesh does his work at office , he cleans tables at the dining hall
